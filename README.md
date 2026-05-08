@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER TOP -->
-<img src="https://raw.githubusercontent.com/mnabilawil01-rgb/horizons/main/banner.png" width="100%" alt="Galaxy Banner"/>
+<img src="https://raw.githubusercontent.com/mnabilawil01-rgb/mnabilawil01-rgb/main/banner.png" width="100%" alt="Galaxy Banner"/>
 
 </div>
 
