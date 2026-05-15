@@ -8,17 +8,16 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 > *"Code is not just a skill — it's a language I use to bring ideas to life."*
 
 Hello there! I'm **Muhammad Nabil Ferdiansyah**, a **Software Engineering student** at SMKN 1 Katapang, majoring in RPL (Software Engineering). I'm constantly exploring the world of programming — from web development to game engines — and I love turning ideas into real, working projects.
 
-- 🏫 Student at **SMKN 1 Katapang**, RPL Department
-- 💡 Currently learning and building projects in **web dev & software engineering**
-- 🎮 Gaming enthusiast who also loves **game development**
-- 🎨 Into **UI/UX design**, 3D modeling, and creative tools
-- 🌱 Always growing — every day is a new line of code
+- Currently learning and building projects in **web dev & software engineering**
+- Gaming enthusiast who also loves **game development**
+- Into **UI/UX design**, 3D modeling, and creative tools
+- Always growing — every day is a new line of code
 
 ---
 
@@ -127,11 +126,10 @@ Hello there! I'm **Muhammad Nabil Ferdiansyah**, a **Software Engineering studen
 ## 🎯 Current Goals
 
 ```text
-🔭  Building a full-stack web application with Laravel + Vue
-🌱  Learning TypeScript and modern JavaScript frameworks
-👾  Developing a small indie game in Unity
-📐  Improving UI/UX skills with Figma
-🤝  Open to collaboration on interesting student projects
+Building a full-stack web application with Laravel + Vue
+Learning TypeScript and modern JavaScript frameworks
+Developing a small indie game in Unity
+Improving UI/UX skills with Figma
 ```
 
 ---
