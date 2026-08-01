@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  # Update otomatis setiap jam 00:00
+  schedule: [{cron: "0 0 * * *"}]
+  # Mengizinkan kamu menjalankan action ini secara manual
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          # Kamu wajib membuat Personal Access Token (PAT) 
+          # dan menyimpannya di Repository Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
